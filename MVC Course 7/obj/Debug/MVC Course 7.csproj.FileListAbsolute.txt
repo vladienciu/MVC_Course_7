@@ -1,0 +1,46 @@
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\obj\Debug\MVC Course 7.csprojResolveAssemblyReference.cache
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\ApplicationInsights.config
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\roslyn\csc.exe
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\roslyn\System.Collections.Immutable.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\roslyn\vbc.exe
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\roslyn\VBCSCompiler.exe
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\roslyn\VBCSCompiler.exe.config
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\MVC Course 7.dll.config
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\MVC Course 7.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\MVC Course 7.pdb
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\Microsoft.AI.Web.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\Microsoft.AI.WindowsServer.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\Microsoft.ApplicationInsights.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\Microsoft.Web.Infrastructure.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\System.Web.Helpers.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\System.Web.Mvc.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\System.Web.Razor.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\System.Web.Webpages.Deployment.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\System.Web.Webpages.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\System.Web.Webpages.Razor.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\Microsoft.AI.Web.xml
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\Microsoft.AI.WindowsServer.xml
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\Microsoft.ApplicationInsights.xml
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\System.Web.Razor.xml
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\System.Web.Webpages.xml
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\System.Web.Webpages.Deployment.xml
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\System.Web.Webpages.Razor.xml
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\System.Web.Helpers.xml
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\bin\System.Web.Mvc.xml
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\obj\Debug\MVC Course 7.dll
+c:\users\funky\documents\visual studio 2015\Projects\MVC Course 7\MVC Course 7\obj\Debug\MVC Course 7.pdb
